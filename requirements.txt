@@ -1,9 +1,12 @@
-fastai>=0.0.11
+azure-cognitiveservices-search-imagesearch
+fastai
 graphviz
 ipywidgets
 matplotlib
-nbdev>=0.2.12
+nbdev
+packaging
 pandas
+pillow
 scikit_learn
-azure-cognitiveservices-search-imagesearch
 sentencepiece
+voila
